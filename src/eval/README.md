@@ -1,0 +1,1 @@
+(small_math) vilab@knu-gsds0:~/projects/video_Reinforcement/small_math_r1$ src/eval/eval_bench.sh <- 이걸로 해야 합니다.>
